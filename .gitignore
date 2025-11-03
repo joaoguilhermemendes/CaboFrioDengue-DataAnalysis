@@ -1,2 +1,3 @@
 data/raw/dengue/*.csv
+data/processed/dengue/*_processed.csv
 requirements.txt
