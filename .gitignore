@@ -1,3 +1,6 @@
+# Ignore all raw and processed CSV data
 data/raw/dengue/*.csv
-data/processed/dengue/*_processed.csv
+data/processed/dengue/*.csv
+
+# Ignore virtual environment and dependency files
 requirements.txt
