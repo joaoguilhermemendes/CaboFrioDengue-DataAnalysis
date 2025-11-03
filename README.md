@@ -2,7 +2,7 @@
 
 
 ## Abstract
-> This repository documents and executes the Extract, Transform, Load (ETL) pipeline designed to generate a temporally coherent and clean dataset of Notifiable Dengue cases for the municipality of Cabo Frio, Rio de Janeiro (IBGE Code: 330070). The raw data is sourced from the official Brazilian Notifiable Diseases Information System (SINAN) via the openDataSUS platform. The objective of this pipeline is to transition raw, large-scale, annual national files into a single, standardized, analysis-ready CSV file spanning ten years (2015 to 2024) suitable for subsequent spatio-temporal modeling and epidemiological analysis.
+> This repository documents and executes the Extract, Transform, Load (ETL) pipeline to generate a clean, temporally coherent dataset of Notifiable Dengue cases for the municipality of Cabo Frio, Rio de Janeiro (IBGE Code: 330070), sourced from the official Brazilian SINAN platform. The primary objective of this data preparation pipeline is to construct a standardized, analysis-ready file covering ten years (2015 to 2024). This dataset specifically enables the accurate calculation and subsequent analysis of the Symptom-to-Death Interval (SDI) in fatal dengue cases. The SDI serves as a crucial metric for evaluating the timeliness and effectiveness of the local epidemiological surveillance system's response to severe outcomes.
 
 
 ## 1. Research Context
