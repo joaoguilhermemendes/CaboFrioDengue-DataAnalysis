@@ -1,4 +1,4 @@
-# Performance of Epidemiological Surveillance: The Symptom-to-Death Interval in Fatal Dengue Cases, Cabo Frio (2015–2024)
+# Performance of Epidemiological Surveillance: Dengue Seasonality and Strategic Insights, Cabo Frio (2015–2024)
 
 
 ## Abstract
