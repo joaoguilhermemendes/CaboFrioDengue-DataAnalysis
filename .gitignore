@@ -2,9 +2,6 @@
 data/raw/dengue/*.csv
 data/processed/dengue/*_processed.csv
 
-# Ignore virtual environment and dependency files
-requirements.txt
-
 # Ignore Jupyter Notebook checkpoints and Python cache files
 *.ipynb_checkpoints
 .py
